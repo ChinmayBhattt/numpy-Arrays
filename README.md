@@ -16,5 +16,5 @@ Welcome to the **NumPy Arrays** repository! This repo contains beginner to inter
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Structure 
 
